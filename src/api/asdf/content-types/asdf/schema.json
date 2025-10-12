@@ -1,0 +1,14 @@
+
+{
+  "kind": "collectionType",
+  "collectionName": "asdfs",
+  "info": {
+    "singularName": "asdf",
+    "pluralName": "asdfs",
+    "displayName": "asdf"
+  },
+  "options": {
+    "comment": ""
+  },
+  "attributes": {}
+}
