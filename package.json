@@ -1,5 +1,7 @@
 {
-  "version": "0.0.0",
+  "name": "@strapi-community/plugin-todo",
+  "description": "Keep track of your content management with todo lists",
+  "version": "1.0.0",
   "keywords": [],
   "type": "commonjs",
   "exports": {
@@ -64,8 +66,6 @@
     "displayName": "Todo",
     "description": "Keep track of your content management with todo lists"
   },
-  "name": "strapi-plugin-todo",
-  "description": "Keep track of your content management with todo lists",
   "license": "MIT",
   "repository": {
     "type": "git",
