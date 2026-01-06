@@ -19,14 +19,14 @@
   },
   "attributes": {
     "name": {
-      "type": "string"
+      "type": "text"
     },
     "done": {
       "type": "boolean"
     },
     "related": {
       "type": "relation",
-      "relation": "morphToOne"
+      "relation": "morphToMany"
     }
   }
 }
